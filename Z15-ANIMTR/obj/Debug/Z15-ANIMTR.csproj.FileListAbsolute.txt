@@ -1,0 +1,14 @@
+C:\Users\ASUS\Documents\GitHub\P_IV_LAB15\Z15-ANIMTR\bin\Debug\Z15-ANIMTR.exe.config
+C:\Users\ASUS\Documents\GitHub\P_IV_LAB15\Z15-ANIMTR\bin\Debug\Z15-ANIMTR.exe
+C:\Users\ASUS\Documents\GitHub\P_IV_LAB15\Z15-ANIMTR\bin\Debug\Z15-ANIMTR.pdb
+C:\Users\ASUS\Documents\GitHub\P_IV_LAB15\Z15-ANIMTR\obj\Debug\Z15-ANIMTR.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\P_IV_LAB15\Z15-ANIMTR\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\Documents\GitHub\P_IV_LAB15\Z15-ANIMTR\obj\Debug\App.g.cs
+C:\Users\ASUS\Documents\GitHub\P_IV_LAB15\Z15-ANIMTR\obj\Debug\Z15-ANIMTR_MarkupCompile.cache
+C:\Users\ASUS\Documents\GitHub\P_IV_LAB15\Z15-ANIMTR\obj\Debug\Z15-ANIMTR_MarkupCompile.lref
+C:\Users\ASUS\Documents\GitHub\P_IV_LAB15\Z15-ANIMTR\obj\Debug\MainWindow.baml
+C:\Users\ASUS\Documents\GitHub\P_IV_LAB15\Z15-ANIMTR\obj\Debug\Z15-ANIMTR.g.resources
+C:\Users\ASUS\Documents\GitHub\P_IV_LAB15\Z15-ANIMTR\obj\Debug\Z15_ANIMTR.Properties.Resources.resources
+C:\Users\ASUS\Documents\GitHub\P_IV_LAB15\Z15-ANIMTR\obj\Debug\Z15-ANIMTR.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\GitHub\P_IV_LAB15\Z15-ANIMTR\obj\Debug\Z15-ANIMTR.exe
+C:\Users\ASUS\Documents\GitHub\P_IV_LAB15\Z15-ANIMTR\obj\Debug\Z15-ANIMTR.pdb
